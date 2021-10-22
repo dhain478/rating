@@ -1,0 +1,10 @@
+/* You can add global styles to this file, and also import other style files */
+body {
+  width: 100%;
+  height: 100%;
+  background-size: cover;
+  background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeneWtU4c-jixU4Mvhdn738MbokfHcDRgSVw&usqp=CAU);
+}
+ngb-rating{
+  color: rgb(0, 250, 225);
+}
